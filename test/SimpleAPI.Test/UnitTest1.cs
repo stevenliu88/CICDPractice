@@ -11,7 +11,7 @@ namespace SimpleAPI.Test
         public void TestValue()
         {
             var result = controller.Get(2);
-            Assert.Equal("test",result.Value);
+            Assert.Equal("steven",result.Value);
         }
         [Fact]
         public void Test1()
