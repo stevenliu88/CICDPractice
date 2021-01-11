@@ -16,7 +16,7 @@ namespace SimpleAPI.Test
         [Fact]
         public void Test1()
         {
-            Assert.Equal(3,3);
+            Assert.Equal(4,4);
         }
     }
 }
